@@ -4,7 +4,7 @@ This repository is made for basic chatbot Android
 ## Installation :
 1. clone this repository to your computer using this command :
     ```
-    git clone https://github.com/CicusAjadah/fdysuitmediacomtest.git
+    git clone https://github.com/Portfolio-Chatbot/chatbot-android.git
     ```
 
 2. Open your local Android Studio that direct to the repository folder on your local
