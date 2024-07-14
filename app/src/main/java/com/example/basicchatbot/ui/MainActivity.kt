@@ -4,13 +4,10 @@ import android.annotation.SuppressLint
 import android.os.Bundle
 import android.util.Log
 import android.view.View
-import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.example.basicchatbot.R
 import com.example.basicchatbot.data.response.BibleResponse
 import com.example.basicchatbot.data.response.VersesItem
 import com.example.basicchatbot.data.retrofit.ApiConfig
-import com.example.basicchatbot.data.retrofit.ApiService
 import com.example.basicchatbot.databinding.ActivityMainBinding
 import retrofit2.Call
 import retrofit2.Callback
