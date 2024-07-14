@@ -16,10 +16,6 @@ This repository is made for basic chatbot Android
 ```
 de.hdodenhof.circleimageview.CircleImageView
 RetroFit
-Glide
-ViewPager3
-Lifecycle-livedata
-Lifecycle-viewmodel
 ```
 ---
 ## Reference that used to complete
